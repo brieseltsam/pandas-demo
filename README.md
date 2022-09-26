@@ -1,12 +1,26 @@
 # Pandas Demo for IAC
 
-Pandas demo for IAC...
+A demo example of using Pandas!
 
 ## Getting Started
 
-Repo contains...
+Data for this project is from [Kaggle](https://www.kaggle.com/)
 
-## Details on Setting up Environment
+Files included:
+- Resources/SteamCharts.csv
+  - Available at: [Popularity of Games on Steam](https://www.kaggle.com/michau96/popularity-of-games-on-steam/)
+- pandas-demo-IAC
+  - Jupyter Notebook example of Data Exploration (uses CSV file)
+- pandas-demo-IAC
+  - Jupyter Notebook example of Data Cleaning (uses JSON file - available at link below)
+- Pandas for IAC.pptx
+  - Short slide presentation explaining Pandas
+  
+Files not included:
+- steam-reviews.json
+  - Available at: [80000 Steam Games Dataset](https://www.kaggle.com/deepann/80000-steam-games-dataset/)
+
+## Quick Steps for Setting up Python Environment, Dependencies, and Jupyter Notebook
 
 Create new python virtual environment (below is in Terminal for Mac):
 ```
