@@ -20,14 +20,13 @@ Files included:
   - Modifies as existing table in postgres
 - transform_steps/cleaning.py
   - Example of possible cleaning steps in Pandas
-  
-Files not included:
-- steam-reviews.json
-  - Available at: [80000 Steam Games Dataset](https://www.kaggle.com/deepann/80000-steam-games-dataset/)
 
-Schema used for postgres for main.py
-- This must be set up in postgres first before running main.py file
-[schema](schema.png "Schema")
+Additonal steps:
+- steam-reviews.json is not included in repository
+  - Download at [80000 Steam Games Dataset](https://www.kaggle.com/deepann/80000-steam-games-dataset/)
+- Schema for postgres table must be created before running main.py file
+
+![schema](schema.png)
 
 ## Quick Steps for Setting up Python Environment, Dependencies, and Jupyter Notebook
 
